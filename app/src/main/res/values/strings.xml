@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AndroidWSLaitec</string>
+    <string name="wellcome">لایتک</string>
+    <string name="wellcomworkshop">به لایتک خوش آمدید</string>
+    <string name="username">:نام کاربری</string>
+    <string name="enterusername">نام کاربری را وارد نمایید</string>
+    <string name="password">:رمز عبور</string>
+    <string name="enterPassword">رمز عبور را وارد نمایید</string>
+    <string name="close">خروج</string>
+    <string name="enter">ورود</string>
+</resources>
